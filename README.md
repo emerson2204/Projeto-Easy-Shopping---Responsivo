@@ -4,10 +4,10 @@
 - Melhor experiência ao usuário: Sites responsivos oferecem uma navegação mais intuitiva e fácil, independentemente do dispositivo utilizado.
 <br>
 <br>
-  - Redução da taxa de rejeição: Ao proporcionar uma experiência amigável em todos os dispositivos, mantém os visitantes engajados, reduzindo a taxa de rejeição.
+- Redução da taxa de rejeição: Ao proporcionar uma experiência amigável em todos os dispositivos, mantém os visitantes engajados, reduzindo a taxa de rejeição.
 <br>
 <br>
-  - Maior visibilidade: Sites responsivos tendem a ser mais bem ranqueados nos resultados de busca, o que aumenta a visibilidade do site.
+- Maior visibilidade: Sites responsivos tendem a ser mais bem ranqueados nos resultados de busca, o que aumenta a visibilidade do site.
 <br>
 <br>
   
